@@ -1,0 +1,9 @@
+[package]
+name = "beholden"
+version = "0.1.0"
+edition = "2021"
+[lib]
+src = "lib.rs"
+name = "Bevy_CameraFollower"
+[dependencies]
+bevy = "0.14.2"
